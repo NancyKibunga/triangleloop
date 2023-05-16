@@ -1,0 +1,6 @@
+//looping a triangle
+/*If the length of the line is less that 90, keep looping.*/
+
+for(let line="*";line.length<90;line+="*"){
+console.log(line);
+}
